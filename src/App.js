@@ -1,5 +1,5 @@
 import Component from "./core/Component.js";
-import CounterPage from "./pages/CounterPages.js";
+import CounterPage from "./pages/CounterPage.js";
 
 export default class App extends Component {
   template() {
